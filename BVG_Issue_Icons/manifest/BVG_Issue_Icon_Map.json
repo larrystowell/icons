@@ -1,0 +1,211 @@
+[
+  {
+    "Issue_ID": "ENV",
+    "Issue_Label": "Climate & Environment",
+    "Color": "#24833B",
+    "SVG_Path": "svg/ENV.svg",
+    "PNG_32_Path": "png32/ENV.png",
+    "PNG_64_Path": "png64/ENV.png",
+    "PNG_128_Path": "png128/ENV.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/ENV.png",
+    "Alt_Text": "Climate & Environment icon"
+  },
+  {
+    "Issue_ID": "HLTH",
+    "Issue_Label": "Healthcare & Public Health",
+    "Color": "#1D66C2",
+    "SVG_Path": "svg/HLTH.svg",
+    "PNG_32_Path": "png32/HLTH.png",
+    "PNG_64_Path": "png64/HLTH.png",
+    "PNG_128_Path": "png128/HLTH.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/HLTH.png",
+    "Alt_Text": "Healthcare & Public Health icon"
+  },
+  {
+    "Issue_ID": "LAB",
+    "Issue_Label": "Labor & Workers Rights",
+    "Color": "#5640A3",
+    "SVG_Path": "svg/LAB.svg",
+    "PNG_32_Path": "png32/LAB.png",
+    "PNG_64_Path": "png64/LAB.png",
+    "PNG_128_Path": "png128/LAB.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/LAB.png",
+    "Alt_Text": "Labor & Workers Rights icon"
+  },
+  {
+    "Issue_ID": "EDU",
+    "Issue_Label": "Education",
+    "Color": "#0C4B9B",
+    "SVG_Path": "svg/EDU.svg",
+    "PNG_32_Path": "png32/EDU.png",
+    "PNG_64_Path": "png64/EDU.png",
+    "PNG_128_Path": "png128/EDU.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/EDU.png",
+    "Alt_Text": "Education icon"
+  },
+  {
+    "Issue_ID": "WR",
+    "Issue_Label": "Reproductive Rights",
+    "Color": "#C2256E",
+    "SVG_Path": "svg/WR.svg",
+    "PNG_32_Path": "png32/WR.png",
+    "PNG_64_Path": "png64/WR.png",
+    "PNG_128_Path": "png128/WR.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/WR.png",
+    "Alt_Text": "Reproductive Rights icon"
+  },
+  {
+    "Issue_ID": "CIV",
+    "Issue_Label": "Civil Rights & LGBTQ+ Equality",
+    "Color": "#0E8F9E",
+    "SVG_Path": "svg/CIV.svg",
+    "PNG_32_Path": "png32/CIV.png",
+    "PNG_64_Path": "png64/CIV.png",
+    "PNG_128_Path": "png128/CIV.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/CIV.png",
+    "Alt_Text": "Civil Rights & LGBTQ+ Equality icon"
+  },
+  {
+    "Issue_ID": "DEM",
+    "Issue_Label": "Democracy & Voting Rights",
+    "Color": "#0A3E8F",
+    "SVG_Path": "svg/DEM.svg",
+    "PNG_32_Path": "png32/DEM.png",
+    "PNG_64_Path": "png64/DEM.png",
+    "PNG_128_Path": "png128/DEM.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/DEM.png",
+    "Alt_Text": "Democracy & Voting Rights icon"
+  },
+  {
+    "Issue_ID": "GUN",
+    "Issue_Label": "Gun Safety & Violence Prevention",
+    "Color": "#D94A0B",
+    "SVG_Path": "svg/GUN.svg",
+    "PNG_32_Path": "png32/GUN.png",
+    "PNG_64_Path": "png64/GUN.png",
+    "PNG_128_Path": "png128/GUN.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/GUN.png",
+    "Alt_Text": "Gun Safety & Violence Prevention icon"
+  },
+  {
+    "Issue_ID": "IMM",
+    "Issue_Label": "Immigrant Rights & Welcoming Communities",
+    "Color": "#D99000",
+    "SVG_Path": "svg/IMM.svg",
+    "PNG_32_Path": "png32/IMM.png",
+    "PNG_64_Path": "png64/IMM.png",
+    "PNG_128_Path": "png128/IMM.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/IMM.png",
+    "Alt_Text": "Immigrant Rights & Welcoming Communities icon"
+  },
+  {
+    "Issue_ID": "HOU",
+    "Issue_Label": "Housing & Homelessness",
+    "Color": "#0B8C9A",
+    "SVG_Path": "svg/HOU.svg",
+    "PNG_32_Path": "png32/HOU.png",
+    "PNG_64_Path": "png64/HOU.png",
+    "PNG_128_Path": "png128/HOU.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/HOU.png",
+    "Alt_Text": "Housing & Homelessness icon"
+  },
+  {
+    "Issue_ID": "CJ",
+    "Issue_Label": "Criminal Justice Reform",
+    "Color": "#E65100",
+    "SVG_Path": "svg/CJ.svg",
+    "PNG_32_Path": "png32/CJ.png",
+    "PNG_64_Path": "png64/CJ.png",
+    "PNG_128_Path": "png128/CJ.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/CJ.png",
+    "Alt_Text": "Criminal Justice Reform icon"
+  },
+  {
+    "Issue_ID": "ECON",
+    "Issue_Label": "Economic Justice & Fair Economy",
+    "Color": "#2E8B3C",
+    "SVG_Path": "svg/ECON.svg",
+    "PNG_32_Path": "png32/ECON.png",
+    "PNG_64_Path": "png64/ECON.png",
+    "PNG_128_Path": "png128/ECON.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/ECON.png",
+    "Alt_Text": "Economic Justice & Fair Economy icon"
+  },
+  {
+    "Issue_ID": "SEN",
+    "Issue_Label": "Seniors & Social Security",
+    "Color": "#6B58B6",
+    "SVG_Path": "svg/SEN.svg",
+    "PNG_32_Path": "png32/SEN.png",
+    "PNG_64_Path": "png64/SEN.png",
+    "PNG_128_Path": "png128/SEN.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/SEN.png",
+    "Alt_Text": "Seniors & Social Security icon"
+  },
+  {
+    "Issue_ID": "DIS",
+    "Issue_Label": "Disability Rights & Accessibility",
+    "Color": "#1F72D4",
+    "SVG_Path": "svg/DIS.svg",
+    "PNG_32_Path": "png32/DIS.png",
+    "PNG_64_Path": "png64/DIS.png",
+    "PNG_128_Path": "png128/DIS.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/DIS.png",
+    "Alt_Text": "Disability Rights & Accessibility icon"
+  },
+  {
+    "Issue_ID": "VET",
+    "Issue_Label": "Veterans & Military Families",
+    "Color": "#7A552A",
+    "SVG_Path": "svg/VET.svg",
+    "PNG_32_Path": "png32/VET.png",
+    "PNG_64_Path": "png64/VET.png",
+    "PNG_128_Path": "png128/VET.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/VET.png",
+    "Alt_Text": "Veterans & Military Families icon"
+  },
+  {
+    "Issue_ID": "ANIM",
+    "Issue_Label": "Animal Welfare & Protection",
+    "Color": "#2F8B45",
+    "SVG_Path": "svg/ANIM.svg",
+    "PNG_32_Path": "png32/ANIM.png",
+    "PNG_64_Path": "png64/ANIM.png",
+    "PNG_128_Path": "png128/ANIM.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/ANIM.png",
+    "Alt_Text": "Animal Welfare & Protection icon"
+  },
+  {
+    "Issue_ID": "YTH",
+    "Issue_Label": "Youth & Future Generations",
+    "Color": "#D69A00",
+    "SVG_Path": "svg/YTH.svg",
+    "PNG_32_Path": "png32/YTH.png",
+    "PNG_64_Path": "png64/YTH.png",
+    "PNG_128_Path": "png128/YTH.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/YTH.png",
+    "Alt_Text": "Youth & Future Generations icon"
+  },
+  {
+    "Issue_ID": "GOV",
+    "Issue_Label": "Good Government & Ethics",
+    "Color": "#687078",
+    "SVG_Path": "svg/GOV.svg",
+    "PNG_32_Path": "png32/GOV.png",
+    "PNG_64_Path": "png64/GOV.png",
+    "PNG_128_Path": "png128/GOV.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/GOV.png",
+    "Alt_Text": "Good Government & Ethics icon"
+  },
+  {
+    "Issue_ID": "IND",
+    "Issue_Label": "Indigenous Rights & Tribal Sovereignty",
+    "Color": "#8B5E3C",
+    "SVG_Path": "svg/IND.svg",
+    "PNG_32_Path": "png32/IND.png",
+    "PNG_64_Path": "png64/IND.png",
+    "PNG_128_Path": "png128/IND.png",
+    "GitHub_PNG_32_URL": "https://raw.githubusercontent.com/larrystowell/icons/main/IND.png",
+    "Alt_Text": "Indigenous Rights & Tribal Sovereignty icon"
+  }
+]

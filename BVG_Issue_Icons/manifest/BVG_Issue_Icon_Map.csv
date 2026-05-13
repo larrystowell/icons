@@ -1,0 +1,20 @@
+Issue_ID,Issue_Label,Color,SVG_Path,PNG_32_Path,PNG_64_Path,PNG_128_Path,GitHub_PNG_32_URL,Alt_Text
+ENV,Climate & Environment,#24833B,svg/ENV.svg,png32/ENV.png,png64/ENV.png,png128/ENV.png,https://raw.githubusercontent.com/larrystowell/icons/main/ENV.png,Climate & Environment icon
+HLTH,Healthcare & Public Health,#1D66C2,svg/HLTH.svg,png32/HLTH.png,png64/HLTH.png,png128/HLTH.png,https://raw.githubusercontent.com/larrystowell/icons/main/HLTH.png,Healthcare & Public Health icon
+LAB,Labor & Workers Rights,#5640A3,svg/LAB.svg,png32/LAB.png,png64/LAB.png,png128/LAB.png,https://raw.githubusercontent.com/larrystowell/icons/main/LAB.png,Labor & Workers Rights icon
+EDU,Education,#0C4B9B,svg/EDU.svg,png32/EDU.png,png64/EDU.png,png128/EDU.png,https://raw.githubusercontent.com/larrystowell/icons/main/EDU.png,Education icon
+WR,Reproductive Rights,#C2256E,svg/WR.svg,png32/WR.png,png64/WR.png,png128/WR.png,https://raw.githubusercontent.com/larrystowell/icons/main/WR.png,Reproductive Rights icon
+CIV,Civil Rights & LGBTQ+ Equality,#0E8F9E,svg/CIV.svg,png32/CIV.png,png64/CIV.png,png128/CIV.png,https://raw.githubusercontent.com/larrystowell/icons/main/CIV.png,Civil Rights & LGBTQ+ Equality icon
+DEM,Democracy & Voting Rights,#0A3E8F,svg/DEM.svg,png32/DEM.png,png64/DEM.png,png128/DEM.png,https://raw.githubusercontent.com/larrystowell/icons/main/DEM.png,Democracy & Voting Rights icon
+GUN,Gun Safety & Violence Prevention,#D94A0B,svg/GUN.svg,png32/GUN.png,png64/GUN.png,png128/GUN.png,https://raw.githubusercontent.com/larrystowell/icons/main/GUN.png,Gun Safety & Violence Prevention icon
+IMM,Immigrant Rights & Welcoming Communities,#D99000,svg/IMM.svg,png32/IMM.png,png64/IMM.png,png128/IMM.png,https://raw.githubusercontent.com/larrystowell/icons/main/IMM.png,Immigrant Rights & Welcoming Communities icon
+HOU,Housing & Homelessness,#0B8C9A,svg/HOU.svg,png32/HOU.png,png64/HOU.png,png128/HOU.png,https://raw.githubusercontent.com/larrystowell/icons/main/HOU.png,Housing & Homelessness icon
+CJ,Criminal Justice Reform,#E65100,svg/CJ.svg,png32/CJ.png,png64/CJ.png,png128/CJ.png,https://raw.githubusercontent.com/larrystowell/icons/main/CJ.png,Criminal Justice Reform icon
+ECON,Economic Justice & Fair Economy,#2E8B3C,svg/ECON.svg,png32/ECON.png,png64/ECON.png,png128/ECON.png,https://raw.githubusercontent.com/larrystowell/icons/main/ECON.png,Economic Justice & Fair Economy icon
+SEN,Seniors & Social Security,#6B58B6,svg/SEN.svg,png32/SEN.png,png64/SEN.png,png128/SEN.png,https://raw.githubusercontent.com/larrystowell/icons/main/SEN.png,Seniors & Social Security icon
+DIS,Disability Rights & Accessibility,#1F72D4,svg/DIS.svg,png32/DIS.png,png64/DIS.png,png128/DIS.png,https://raw.githubusercontent.com/larrystowell/icons/main/DIS.png,Disability Rights & Accessibility icon
+VET,Veterans & Military Families,#7A552A,svg/VET.svg,png32/VET.png,png64/VET.png,png128/VET.png,https://raw.githubusercontent.com/larrystowell/icons/main/VET.png,Veterans & Military Families icon
+ANIM,Animal Welfare & Protection,#2F8B45,svg/ANIM.svg,png32/ANIM.png,png64/ANIM.png,png128/ANIM.png,https://raw.githubusercontent.com/larrystowell/icons/main/ANIM.png,Animal Welfare & Protection icon
+YTH,Youth & Future Generations,#D69A00,svg/YTH.svg,png32/YTH.png,png64/YTH.png,png128/YTH.png,https://raw.githubusercontent.com/larrystowell/icons/main/YTH.png,Youth & Future Generations icon
+GOV,Good Government & Ethics,#687078,svg/GOV.svg,png32/GOV.png,png64/GOV.png,png128/GOV.png,https://raw.githubusercontent.com/larrystowell/icons/main/GOV.png,Good Government & Ethics icon
+IND,Indigenous Rights & Tribal Sovereignty,#8B5E3C,svg/IND.svg,png32/IND.png,png64/IND.png,png128/IND.png,https://raw.githubusercontent.com/larrystowell/icons/main/IND.png,Indigenous Rights & Tribal Sovereignty icon
