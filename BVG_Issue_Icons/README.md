@@ -1,8 +1,6 @@
 # BVG Issue Icons With Indigenous Rights
 
-This package uses the accepted SVG icon set provided by the user and adds:
-
-- IND.svg — Indigenous Rights & Tribal Sovereignty
+This package uses the accepted SVG icon set:
 
 Folders:
 - svg/      Source SVG icons
